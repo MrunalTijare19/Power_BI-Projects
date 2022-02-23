@@ -4,4 +4,8 @@ Swiggy Calling Data report :- https://app.powerbi.com/view?r=eyJrIjoiNjI4NzE1M2Q
 
 Store Analysis :- https://app.powerbi.com/view?r=eyJrIjoiMmMzNjYzYWEtYTI4MC00OWJhLTliZjUtNjNhZGMxYzBjNmU4IiwidCI6ImY2YTI4NWRlLWQ1ODMtNGZlMS1hM2ZiLWNkZGU0MDZiMTYyNCJ9
 
+CryptoCurrency :- https://app.powerbi.com/view?r=eyJrIjoiOTgzNWUyMTEtZDIyZS00YjdlLWJjNzItYmI4NGFlMmZjNGEyIiwidCI6ImY2YTI4NWRlLWQ1ODMtNGZlMS1hM2ZiLWNkZGU0MDZiMTYyNCJ9
+
+
+
 
