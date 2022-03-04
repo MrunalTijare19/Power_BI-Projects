@@ -6,6 +6,6 @@ Store Analysis :- https://app.powerbi.com/view?r=eyJrIjoiMmMzNjYzYWEtYTI4MC00OWJ
 
 CryptoCurrency :- https://app.powerbi.com/view?r=eyJrIjoiOTgzNWUyMTEtZDIyZS00YjdlLWJjNzItYmI4NGFlMmZjNGEyIiwidCI6ImY2YTI4NWRlLWQ1ODMtNGZlMS1hM2ZiLWNkZGU0MDZiMTYyNCJ9
 
-
+Sales Analysis :- https://app.powerbi.com/view?r=eyJrIjoiMDcyZTNhNjAtODdjMC00OTY2LWJiMjctODgzY2RmOTc2NTA2IiwidCI6ImY2YTI4NWRlLWQ1ODMtNGZlMS1hM2ZiLWNkZGU0MDZiMTYyNCJ9
 
 
